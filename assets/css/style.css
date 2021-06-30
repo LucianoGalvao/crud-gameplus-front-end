@@ -1,0 +1,34 @@
+body {
+  font-family: Roboto, Merriweather, Fira Sans, sans-serif !important;
+  background-image: url("../images/background.jpg");
+  color: white;
+}
+
+.container {
+  max-width: 650px;
+  margin-top: 155px;
+}
+
+#items-list {
+  margin: 4px;
+}
+
+#game-title {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#botoes {
+  margin-top: 15px;
+  text-align: center;
+}
+
+#gameName {
+  text-align: center;
+  align-content: center;
+  display: grid;
+}
+
+#wngBtn {
+  text-align: right !important;
+}
